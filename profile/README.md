@@ -7,7 +7,7 @@
     <summary>
       <h1>The Invitation</h1>
       <p> 
-        As a person who might be interested in job search automation, you have been invited to join us. However, if this does notappeal to you or suit your needs, you can simply ignore this invite 
+        As a person who might be interested in job search automation, you have been invited to join us. However, if this does not appeal to you or suit your needs, you can simply ignore this invite.
       </p>
       <h1>About Octoffers</h1>
       <p>
